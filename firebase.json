@@ -1,0 +1,22 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "farm-cast-46cf1",
+                    "appId": "1:555211429686:android:63c1557e5e5e1f7a0c0597",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "farm-cast-46cf1",
+                    "configurations": {
+                        "android": "1:555211429686:android:63c1557e5e5e1f7a0c0597",
+                        "web": "1:555211429686:web:9dca32f0c40958a10c0597"
+                    }
+                }
+            }
+        }
+    }
+}

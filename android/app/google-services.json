@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555211429686",
+    "project_id": "farm-cast-46cf1",
+    "storage_bucket": "farm-cast-46cf1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555211429686:android:63c1557e5e5e1f7a0c0597",
+        "android_client_info": {
+          "package_name": "com.example.farmcast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMl9o7zQigqs3Q2WwmeNCKUwZ9Ls_7xYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
